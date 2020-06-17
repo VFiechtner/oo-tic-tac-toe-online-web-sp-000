@@ -116,7 +116,7 @@ class TicTacToe
     index = won?
     if index == false
       return nil
-    else 
+    else
       if @board[index[0]] == "X"
         return "X"
       else
@@ -125,6 +125,6 @@ class TicTacToe
     end
   end
   
-      
+
 
 end
