@@ -59,7 +59,7 @@ class TicTacToe
     return player
   end
   
-      
+
 
 
 end
